@@ -1,9 +1,12 @@
 # AngularDemoApp
-This project is developer to help the QA in interview process.
+This project is developed to help the QA in interview process.
 
 ## Requirements
 * Chrome version: **77(preferable)**
 * Typescript: **2.8.0+**
+
+## Installation
+Just running **npm install** should work
 
 ## Running the tests
 Command to run the test: **ng e2e**
