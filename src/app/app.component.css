@@ -1,0 +1,24 @@
+label{
+  color: #24408f;
+}
+
+h4 {
+  color: #ed0281;
+}
+
+input {
+  width: 60em;
+}
+
+.radio-group{
+  width: 2% !important;
+  float:left;
+}
+
+.test-form {
+  margin-left: 5em;
+}
+
+button {
+  cursor: pointer;
+}
